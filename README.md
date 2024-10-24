@@ -19,7 +19,7 @@ The data in this project is based on real data but to my knowledge is not real. 
 
 1. What is the distribution of conservation status of the animals?
 
-  Most of the animals had no conservation status at all.
+  Most of the animals had no conservation status at all. Most with a conservation status were only species of concern.
   
 2. What is the distribution of endangered species?
 
