@@ -8,6 +8,13 @@ This project will identify trends in the data, and ideas for future analysis, an
 3. What species were spotted most at each park?
 4. Are the differences between species and their conservation status significant?
 
+Technology Used:
+-Python and libraries such as pandas, matplotlib, and scipy.stats.
+-Data Visualisation
+-Jupyter Notebook
+
+The data in this project is based on real data but to my knowledge is not real. It is provided by Codecademy.
+
 # Key Findings 
 
 1. What is the distribution of conservation status of the animals?
